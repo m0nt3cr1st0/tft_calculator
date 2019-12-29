@@ -4,5 +4,5 @@ from django.http import HttpResponse
 
 # Create your views here.
 def index(request):
-    return HttpResponse("Hello, world. You are at the composition-calculator index")
+    return HttpResponse("Hello, world. You are at the composition-composition-calculator index")
 
